@@ -1,3 +1,2 @@
-
 FROM andresdfx/ubuntu
 ENV REFRESHED_AT 2019-07-17
